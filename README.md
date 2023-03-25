@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PAmmineni26
-- 👀 I’m interested in Machine learning,Python,C,JAVA
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine learning,Python,C,JAVA,MySQL
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: parthu.ammineni26@gmail.com
 <!---
 PAmmineni26/PAmmineni26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
